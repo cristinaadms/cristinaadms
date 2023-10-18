@@ -1,7 +1,7 @@
 
 
 
-﻿## Olá, meu nome é <strong>Cristina!</strong>👋
+﻿##Olá, meu nome é <strong>Cristina!</strong>👋
 
 
 > Atualmente cursando o 2º período de Sistemas de Informação - UFPI CSHNB
@@ -28,9 +28,5 @@
 
 
 ---
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
-</p>
 
 
