@@ -1,6 +1,13 @@
 
 ﻿
-<strong><span style="color: #ff8ec7;">sobre mim</span></strong>
+<style>
+  .pink-text {
+    color: #ff8ec7;
+  }
+</style>
+
+<strong class="pink-text">sobre mim</strong>
+
 
 
 
