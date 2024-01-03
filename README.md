@@ -1,7 +1,7 @@
 
 
 
-<strong>Seja bem-vindo!!!</strong>﻿
+<strong>Seja bem-vindo!!</strong>﻿
 <strong>Cristina aqui!!</strong> 
 
 
