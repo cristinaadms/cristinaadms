@@ -1,6 +1,7 @@
 
 ﻿
-<strong>sobre mim</strong> 
+<strong><span style="color: #ff8ec7;">sobre mim</span></strong>
+
 
 
 > No momento, estou navegando pelo segundo período do curso de Sistemas de Informação na UFPI-CSHNB. Sou apaixonada por moda e cinema, e recentemente descobri um crescente interesse pela programação. Estou empenhada em contribuir para o campo da tecnologia no Brasil.
