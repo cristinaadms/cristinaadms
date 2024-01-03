@@ -1,10 +1,11 @@
 
 
 
-﻿##Olá, meu nome é <strong>Cristina!</strong>👋
+<strong>Seja bem-vindo!!!</strong>﻿
+<strong>Cristina aqui!!</strong> 
 
 
-> Atualmente cursando o 2º período de Sistemas de Informação - UFPI CSHNB
+> No momento, estou navegando pelo segundo período do curso de Sistemas de Informação na UFPI-CSHNB. Sou apaixonada por moda e cinema, e recentemente descobri um crescente interesse pela programação. Estou empenhada em contribuir para o campo da tecnologia no Brasil.
 
 
 ----
