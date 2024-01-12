@@ -18,8 +18,8 @@
 [![Informações](https://img.shields.io/badge/Informações-ff8ec7?style=for-the-badge&color=white)](https://seu-link-para-informacoes)
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cristinaadms&show_icons=true&count_private=true&hide_border=true&title_color=ff8ec7&icon_color=ff8ec7&text_color=ffffff&bg_color=0d1117" alt="Cristina Sousa Github Stats" />
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristinaadms&layout=compact&hide_border=true&title_color=ff8ec7&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cristinaadms&show_icons=true&count_private=true&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=ffffff&bg_color=0d1117" alt="Cristina Sousa Github Stats" />
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristinaadms&layout=compact&hide_border=true&title_color=8B0000&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 
