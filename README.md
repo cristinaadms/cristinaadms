@@ -1,6 +1,6 @@
 [![Sobre Mim](https://img.shields.io/badge/Sobre%20Mim-f4baba?style=for-the-badge&color=f4baba&logoColor=white)](https://seu-link-para-sobre-mim)
 
-> No momento, estou navegando pelo terceiro período do curso de Sistemas de Informação na UFPI-CSHNB. Sou apaixonada por moda, design, cinema e automobilismo, e recentemente descobri um crescente interesse pela programação. Estou empenhada em contribuir para o campo da tecnologia no Brasil.
+> No momento, estou navegando pelo terceiro período do curso de Sistemas de Informação na UFPI-CSHNB. Sou apaixonada por moda, design, cinema e automobilismo. Recentemente descobri um crescente interesse pela programação. Estou empenhada em contribuir para o campo da tecnologia no Brasil.
 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-f4baba?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cristinaadms/) [![Wakatime](https://wakatime.com/badge/user/018b2021-23c3-406d-8249-a0c654512882.svg)](https://wakatime.com/@018b2021-23c3-406d-8249-a0c654512882) 
