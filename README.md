@@ -1,4 +1,11 @@
-[![Sobre Mim](https://img.shields.io/badge/Sobre%20Mim-c64b5f?style=for-the-badge&color=c64b5f&logoColor=white)](https://seu-link-para-sobre-mim)
+<!-- Inclua este link no cabeçalho do seu arquivo HTML ou README -->
+<link href="https://fonts.googleapis.com/css2?family=Perandory&display=swap" rel="stylesheet">
+
+<a href="https://seu-link-para-sobre-mim" style="text-decoration: none; font-family: 'Perandory', sans-serif; color: #4E3629; font-size: 20px;">
+  SOBRE MIM
+</a>
+
+
 
 > No momento, estou navegando pelo terceiro período do curso de Sistemas de Informação na UFPI-CSHNB. Sou apaixonada por moda, design, cinema e automobilismo. Recentemente descobri um crescente interesse pela programação. Estou empenhada em contribuir para o campo da tecnologia no Brasil.
 
