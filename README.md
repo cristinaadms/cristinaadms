@@ -1,6 +1,6 @@
 [![SOBRE MIM](https://img.shields.io/badge/ABOUT%20ME-4E3629?style=flat&color=4E3629&logoColor=white)](https://seu-link-para-sobre-mim)
 
-> Atualmente, estou cursando o quarto período do curso de Sistemas de Informação na UFPI-CSHNB. Estou realizando pesquisas nas áreas de E-health, Internet das Coisas (IoT) e Análise de Dados, com o objetivo de entender cada vez mais como a tecnologia pode transformar e melhorar o setor da saúde. Meu foco está em fazer parte de contribuições para a melhoria da qualidade de vida das pessoas. Estou continuamente buscando expandir meus conhecimentos e habilidades nessas áreas para gerar impacto positivo no Brasil e no mundo.
+> I am currently in my fourth semester of the Information Systems course at UFPI-CSHNB. I am conducting research in the areas of E-health, Internet of Things (IoT) and Data Analysis, with the goal of increasingly understanding how technology can transform and improve the health sector. My focus is on being part of contributions to improving people's quality of life. I am continually seeking to expand my knowledge and skills in these areas to generate a positive impact in Brazil and the world.
 
 [![LINGUAGENS](https://img.shields.io/badge/LANGUAGES-4E3629?style=flat&color=4E3629&logoColor=white)](https://seu-link-para-sobre-mim)
 
