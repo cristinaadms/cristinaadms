@@ -7,7 +7,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP"/></code>
 
 [![ESPECIALIDADES](https://img.shields.io/badge/SPECIALITIES-4E3629?style=flat&color=4E3629&logoColor=white)](https://seu-link-para-sobre-mim)
