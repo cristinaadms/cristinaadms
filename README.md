@@ -12,7 +12,11 @@
 
 [![ESPECIALIDADES](https://img.shields.io/badge/SPECIALITIES-4E3629?style=flat&color=4E3629&logoColor=white)](https://seu-link-para-sobre-mim)
 
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/></code>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+</p>
 
 [![CODING](https://img.shields.io/badge/CODING-4E3629?style=flat&color=4E3629&logoColor=white)](https://seu-link-para-sobre-mim)
 [![Wakatime](https://wakatime.com/badge/user/018b2021-23c3-406d-8249-a0c654512882.svg)](https://wakatime.com/@018b2021-23c3-406d-8249-a0c654512882) 
