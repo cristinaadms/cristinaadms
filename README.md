@@ -27,6 +27,14 @@ I am currently in my fifth semester of the Information Systems course at UFPI-CS
   </a>
 </p>
 
+[![FRAMEWORK](https://img.shields.io/badge/FRAMEWORK-FFFFFF?style=plastic&logo=code&logoColor=white)](https://seu-link-para-sobre-mim)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel" />
+  </a>
+</p>
+
+
 [![CODING](https://img.shields.io/badge/CODING-FFFFFF?style=plastic&logo=code&logoColor=white)](https://seu-link-para-sobre-mim)
 [![Wakatime](https://wakatime.com/badge/user/018b2021-23c3-406d-8249-a0c654512882.svg)](https://wakatime.com/@018b2021-23c3-406d-8249-a0c654512882) 
 
