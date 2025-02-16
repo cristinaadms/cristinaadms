@@ -1,8 +1,9 @@
-[![SOBRE MIM](https://img.shields.io/badge/ABOUT%20ME-4E3629?style=flat&color=4E3629&logoColor=white)](https://seu-link-para-sobre-mim)
+[![ABOUT ME](https://img.shields.io/badge/ABOUT%20ME-FFFFFF?style=plastic&logo=code&logoColor=white)](https://seu-link-para-sobre-mim)
 
-> I am currently in my fourth semester of the Information Systems course at UFPI-CSHNB. I am conducting research in the areas of E-health, Internet of Things (IoT) and Data Analysis, with the goal of increasingly understanding how technology can transform and improve the health sector. My focus is on being part of contributions to improving people's quality of life. I am continually seeking to expand my knowledge and skills in these areas to generate a positive impact in Brazil and the world.
+I am currently in my fifth semester of the Information Systems course at UFPI-CSHNB. I am conducting research in the areas of E-health, Internet of Things (IoT) and Data Analysis, with the goal of increasingly understanding how technology can transform and improve the health sector. My focus is on being part of contributions to improving people's quality of life. I am continually seeking to expand my knowledge and skills in these areas to generate a positive impact in Brazil and the world.
 
-[![LINGUAGENS](https://img.shields.io/badge/LANGUAGES-4E3629?style=flat&color=4E3629&logoColor=white)](https://seu-link-para-sobre-mim)
+
+[![LINGUAGENS](https://img.shields.io/badge/LANGUAGES-FFFFFF?style=plastic&logo=code&logoColor=white)](https://seu-link-para-sobre-mim)
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -10,7 +11,7 @@
   </a>
 </p>
 
-[![ESPECIALIDADES](https://img.shields.io/badge/SPECIALITIES-4E3629?style=flat&color=4E3629&logoColor=white)](https://seu-link-para-sobre-mim)
+[![DESIGN](https://img.shields.io/badge/DESIGN-FFFFFF?style=plastic&logo=code&logoColor=white)](https://seu-link-para-sobre-mim)
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -18,7 +19,15 @@
   </a>
 </p>
 
-[![CODING](https://img.shields.io/badge/CODING-4E3629?style=flat&color=4E3629&logoColor=white)](https://seu-link-para-sobre-mim)
+[![DATABASE](https://img.shields.io/badge/DATABASE-FFFFFF?style=plastic&logo=code&logoColor=white)](https://seu-link-para-sobre-mim)
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+</p>
+
+[![CODING](https://img.shields.io/badge/CODING-FFFFFF?style=plastic&logo=code&logoColor=white)](https://seu-link-para-sobre-mim)
 [![Wakatime](https://wakatime.com/badge/user/018b2021-23c3-406d-8249-a0c654512882.svg)](https://wakatime.com/@018b2021-23c3-406d-8249-a0c654512882) 
 
 <div align="center">
