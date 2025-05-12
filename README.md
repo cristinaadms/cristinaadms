@@ -7,7 +7,7 @@ I am currently in my fifth semester of the Information Systems course at UFPI-CS
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,html,css,js,php" />
+    <img src="https://skillicons.dev/icons?i=c,python,html,css,js,php,haskell" />
   </a>
 </p>
 
