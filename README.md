@@ -19,14 +19,6 @@ I am currently in my fifth semester of the Information Systems course at UFPI-CS
   </a>
 </p>
 
-[![DATABASE](https://img.shields.io/badge/DATABASE-FFFFFF?style=plastic&logo=code&logoColor=white)](https://seu-link-para-sobre-mim)
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
-</p>
-
 [![FRAMEWORK](https://img.shields.io/badge/FRAMEWORK-FFFFFF?style=plastic&logo=code&logoColor=white)](https://seu-link-para-sobre-mim)
 <p align="left">
   <a href="https://skillicons.dev">
