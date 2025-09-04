@@ -1,6 +1,6 @@
 [![ABOUT ME](https://img.shields.io/badge/ABOUT%20ME-FFFFFF?style=plastic&logo=code&logoColor=white)](https://seu-link-para-sobre-mim)
 
-I am currently in my fifth semester of the Information Systems course at UFPI-CSHNB. I am conducting research in the areas of E-health, Internet of Things (IoT) and Data Analysis, with the goal of increasingly understanding how technology can transform and improve the health sector. My focus is on being part of contributions to improving people's quality of life. I am continually seeking to expand my knowledge and skills in these areas to generate a positive impact in Brazil and the world.
+I am currently in my sixth semester of the Information Systems course at UFPI-CSHNB. I am conducting research in the areas of E-health, Internet of Things (IoT) and Data Analysis, with the goal of increasingly understanding how technology can transform and improve the health sector. My focus is on being part of contributions to improving people's quality of life. I am continually seeking to expand my knowledge and skills in these areas to generate a positive impact in Brazil and the world.
 
 
 [![LINGUAGENS](https://img.shields.io/badge/LANGUAGES-FFFFFF?style=plastic&logo=code&logoColor=white)](https://seu-link-para-sobre-mim)
